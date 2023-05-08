@@ -10,7 +10,9 @@ public class HelloWorld {
 		System.out.println("DISCIPLINA: Gerência de Configuração e Mudança de Software");
 	
 		System.out.println("Adicionando Modificações ");
-		System.out.println("Modificações Referente a pratica 04 - Trabalhando NA BRANCH HOTFIX");
+		System.out.println("Modificações Referente a pratica 04");
+		System.out.println("Trabalhando NA BRANCH HOTFIX");
+
 		
 
 		
